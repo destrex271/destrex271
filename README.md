@@ -27,7 +27,6 @@ I am an aspiring Software Developer and An Open Source Enthusiast.
 <img src="./Icons/java.png" />
 <img src="./Icons/c.png" />
 <img src="./Icons/javascript.png" />
-
 <img src="./Icons/html.png" />
 <img src="./Icons/css.png" />
 <img src="./Icons/node.png" />
