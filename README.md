@@ -24,10 +24,10 @@ I am an aspiring Software Developer and An Open Source Enthusiast.
 <h3>Contact me here : </h3>
 <p float="left">
     <a href="https://www.linkedin.com/in/akshat-jaimini-05a610203/" >
-        <img src="./Icons/linkedin.png" width="30" />
+        <img src="./Icons/linkedin1.png" width="30" />
     </a>
     <a href="mailto:destrex271@gmail.com">
-        <img src="./Icons/gmail.png" width="30" />
+        <img src="./Icons/gmail1.png" width="30" />
     </a>
 </p>
 
@@ -44,11 +44,6 @@ I am an aspiring Software Developer and An Open Source Enthusiast.
     <img src="./Icons/django.png" width="48" />
 </p>
 
-<!-- Contacts -->
-
-<a href="https://www.linkedin.com/in/akshat-jaimini-05a610203/" ></a>
-<a  ></a>
-<a></a>
 
 <!-- Stats -->
 
