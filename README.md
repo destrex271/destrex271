@@ -21,7 +21,7 @@ I am an aspiring Software Developer and An Open Source Enthusiast.
 - ⚡️ Well I'm also a Music Producer 😎
 
 
-<h3 float="left">Contact me here : </h3>
+<h2 float="left">Contact me here </h2>
 <p float="left">
     <a href="https://www.linkedin.com/in/akshat-jaimini-05a610203/" >
         <img src="./Icons/linkedin1.png" width="30" />
@@ -29,6 +29,9 @@ I am an aspiring Software Developer and An Open Source Enthusiast.
     &nbsp;
     <a href="mailto:destrex271@gmail.com">
         <img src="./Icons/gmail1.png" width="30" />
+    </a>
+    <a href="https://twitter.com/Kyllex5">
+        <img src="./Icons/twitter.png" width="30" />
     </a>
 </p>
 
