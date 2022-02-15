@@ -19,7 +19,17 @@ I am an aspiring Software Developer and An Open Source Enthusiast.
 - 🤝 I'm looking for help with Django REST Framework.
 - 👀 I'm currently looking for people interested in collaborating on projects concerning Web Development.
 - ⚡️ Well I'm also a Music Producer 😎
-<br>
+
+
+<h3>Contact me here : </h3>
+<p float="left">
+    <a href="https://www.linkedin.com/in/akshat-jaimini-05a610203/" >
+        <img src="./Icons/linkedin.png" width="48" />
+    </a>
+    <a href="mailto:destrex271@gmail.com">
+        <img src="./Icons/gmail.png" />
+    </a>
+</p>
 
 <!-- Tech Stacks -->
 <h3>Here is what I Use 👀</h3>
