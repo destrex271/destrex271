@@ -24,14 +24,14 @@ I am an aspiring Software Developer and An Open Source Enthusiast.
 <!-- Tech Stacks -->
 <h3>Here is what I Use 👀</h3>
 <p float="left">
-    <img src="./Icons/python.png" width="100" />
-    <img src="./Icons/java.png" width="100" />
-    <img src="./Icons/c.png" width="100" />
-    <img src="./Icons/javascript.png" width="100" />
-    <img src="./Icons/html.png" width="100" />
-    <img src="./Icons/css.png" width="100" />
-    <img src="./Icons/node.png" width="100" />
-    <img src="./Icons/django.png" width="100" />
+    <img src="./Icons/python.png" width="48" />
+    <img src="./Icons/java.png" width="48" />
+    <img src="./Icons/c.png" width="48" />
+    <img src="./Icons/javascript.png" width="48" />
+    <img src="./Icons/html.png" width="48" />
+    <img src="./Icons/css.png" width="48" />
+    <img src="./Icons/node.png" width="48" />
+    <img src="./Icons/django.png" width="48" />
 </p>
 
 <!-- Contacts -->
