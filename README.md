@@ -30,8 +30,17 @@ I am an aspiring Software Developer and An Open Source Enthusiast.
     <a href="mailto:destrex271@gmail.com">
         <img src="./Icons/gmail1.png" width="30" />
     </a>
+    &nbsp;
     <a href="https://twitter.com/Kyllex5">
         <img src="./Icons/twitter.png" width="30" />
+    </a>
+    &nbsp;
+    <a href="https://www.instagram.com/kyllexmusi.c/">
+        <img src="./Icons/insta.png" width="30" />
+    </a>
+    &nbsp;
+    <a href="https://stackoverflow.com/users/12995726/destrexx">
+        <img src="./Icons/stackover.png" width="30" />
     </a>
 </p>
 
