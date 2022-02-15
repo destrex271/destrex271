@@ -22,15 +22,15 @@ I am an aspiring Software Developer and An Open Source Enthusiast.
 
 <p float="left" >
     <h3>Contact me here : </h3>
-    <p float="left">
-        <a href="https://www.linkedin.com/in/akshat-jaimini-05a610203/" >
-            <img src="./Icons/linkedin1.png" width="30" />
-        </a>
-        &nbsp;
-        <a href="mailto:destrex271@gmail.com">
-            <img src="./Icons/gmail1.png" width="30" />
-        </a>
-    </p>
+    
+    <a href="https://www.linkedin.com/in/akshat-jaimini-05a610203/" >
+        <img src="./Icons/linkedin1.png" width="30" />
+    </a>
+    &nbsp;
+    <a href="mailto:destrex271@gmail.com">
+        <img src="./Icons/gmail1.png" width="30" />
+    </a>
+    
 </p>
 
 <!-- Tech Stacks -->
