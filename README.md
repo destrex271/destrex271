@@ -20,8 +20,22 @@ I am an aspiring Software Developer and An Open Source Enthusiast.
 - 👀 I'm currently looking for people interested in collaborating on projects concerning Web Development.
 - ⚡️ Well I'm also a Music Producer 😎
 
+<!-- Tech Stacks -->
+<h3>Here is what I Use 👀</h3>
+<p float="left">
+    <img src="./Icons/python.png" width="48" />
+    <img src="./Icons/java.png" width="48" />
+    <img src="./Icons/c.png" width="48" />
+    <img src="./Icons/javascript.png" width="48" />
+    <img src="./Icons/html.png" width="48" />
+    <img src="./Icons/css.png" width="48" />
+    <img src="./Icons/node.png" width="48" />
+    <img src="./Icons/django.png" width="48" />
+</p>
 
-<h2 float="left">Contact me here </h2>
+<!-- Contacts -->
+
+<h3 float="left">Contact me here 📝</h3>
 <p float="left">
     <a href="https://www.linkedin.com/in/akshat-jaimini-05a610203/" >
         <img src="./Icons/linkedin1.png" width="30" />
@@ -43,20 +57,6 @@ I am an aspiring Software Developer and An Open Source Enthusiast.
         <img src="./Icons/stackover.png" width="30" />
     </a>
 </p>
-
-<!-- Tech Stacks -->
-<h3>Here is what I Use 👀</h3>
-<p float="left">
-    <img src="./Icons/python.png" width="48" />
-    <img src="./Icons/java.png" width="48" />
-    <img src="./Icons/c.png" width="48" />
-    <img src="./Icons/javascript.png" width="48" />
-    <img src="./Icons/html.png" width="48" />
-    <img src="./Icons/css.png" width="48" />
-    <img src="./Icons/node.png" width="48" />
-    <img src="./Icons/django.png" width="48" />
-</p>
-
 
 <!-- Stats -->
 
