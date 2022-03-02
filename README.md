@@ -18,7 +18,7 @@ I am an aspiring Software Developer and An Open Source Enthusiast.
 - 🌱 I'm Currently studying the basics of Backend Web Development.
 - 🤝 I'm looking for help with Django REST Framework.
 - 👀 I'm currently looking for people interested in collaborating on projects concerning Web Development.
-- ⚡️ Well I'm also a Music Producer 😎
+- ⚡️ Well, I'm also a Music Producer 😎
 
 <!-- Tech Stacks -->
 <h3>Here is what I Use 👀</h3>
