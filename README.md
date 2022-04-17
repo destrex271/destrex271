@@ -31,6 +31,7 @@ I am an aspiring Software Developer and An Open Source Enthusiast.
     <img src="./Icons/css.png" width="48" />
     <img src="./Icons/node.png" width="48" />
     <img src="./Icons/django.png" width="48" />
+    <img src="./Icons/cpp.png" width="48">
 </p>
 
 <!-- Contacts -->
