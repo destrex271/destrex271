@@ -14,10 +14,10 @@ I am an aspiring Software Developer and An Open Source Enthusiast.
 
 <h3>Lets talk Business now 😎 </h3>
 
-- 👨🏽‍💻 I’m currently working on My own Personal Tech Blog
-- 🌱 I'm Currently studying the basics of Backend Web Development.
-- 🤝 I'm looking for help with Django REST Framework.
-- 👀 I'm currently looking for people interested in collaborating on projects concerning Web Development.
+- 👨🏽‍💻 I’m currently trying to find some cool opensource projects to contribute to.
+- 🌱 I'm Currently studying the programming language Rust.
+- 🤝 I'm looking for some new and intresting topics to develope some cool projects in.
+- 👀 I'm currently looking for people interested in collaborating on projects concerning Systems Engineering.
 - ⚡️ Well, I'm also a Music Producer 😎
 
 <!-- Tech Stacks -->
@@ -31,7 +31,8 @@ I am an aspiring Software Developer and An Open Source Enthusiast.
     <img src="./Icons/css.png" width="48" />
     <img src="./Icons/node.png" width="48" />
     <img src="./Icons/django.png" width="48" />
-    <img src="./Icons/cpp.png" width="48">
+    <img src="./Icons/cpp.png" width="48" />
+    <img src="./Icons/react.png" width="48" />
 </p>
 
 <!-- Contacts -->
