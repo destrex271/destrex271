@@ -2,10 +2,9 @@
 <hr style="color: gray; margin: auto; width: 90%;" >
 <br>
 <br>
-<img align="right" src="https://komarev.com/ghpvc/?username=destrex271&color=green" />
+<img align="left" src="https://komarev.com/ghpvc/?username=destrex271&color=green" />
 <br>
 <br>
-
 <!-- Intro goes here -->
 
 Hi everyone, I am Akshat Jaimini, a freshman at <a href="https://www.thapar.edu/">Thapar Institute Of Engineering And Technology, Patiala</a>.
@@ -33,6 +32,11 @@ I am an aspiring Software Developer and An Open Source Enthusiast.
     <img src="./Icons/django.png" width="48" />
     <img src="./Icons/cpp.png" width="48" />
     <img src="./Icons/react.png" width="48" />
+    <img src="./Icons/next.png" width="48" />
+    <img src="./Icons/rust.png" width="48" />
+    <img src="./Icons/linux.png" width="48" />
+    <img src="./Icons/flutter.png" width="48" />
+    <img src="./Icons/solidity.png" width="48" />
 </p>
 
 <!-- Contacts -->
@@ -61,13 +65,17 @@ I am an aspiring Software Developer and An Open Source Enthusiast.
 </p>
 
 <!-- Stats -->
+<br>
 
 <h3>Lets Get to some Stats😁</h3>
-<br><br>
-<p align="left"><a href="https://github.com/destrex271"><img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=destrex271&show_icons=true&theme=radical" alt="destrex271"></a></p>
-<img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=destrex271&theme=omni&hide_border=true&include_all_commits=true&hide_title=true" />
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=destrex271&layout=compact&theme=omni&hide_border=true&hide_title=true" />
-<img alt="Akshat's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=destrex271&bg_color=191621&color=e4dc87&line=cc70a9&point=ffffff&hide_border=true">
+
+<p align="left"><a href="https://github.com/destrex271"><img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=destrex271&show_icons=true&theme=gotham" alt="destrex271"></a></p>
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=destrex271&theme=gotham" alt="destrex271" width = "100%"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=destrex271&theme=gotham&hide_border=true&include_all_commits=true&hide_title=true" />
+ <img src = "https://activity-graph.herokuapp.com/graph?username=destrex271&theme=react-dark&hide_border=true&area=true" width = 800>
+
+
+
 
 
 
