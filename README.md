@@ -70,7 +70,7 @@ I am an aspiring Software Developer and An Open Source Enthusiast.
 <h3>Lets Get to some Stats😁</h3>
 
 <p align="left"><a href="https://github.com/destrex271"><img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=destrex271&show_icons=true&theme=gotham" alt="destrex271"></a></p>
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=destrex271&theme=gotham" alt="destrex271" width = "100%"/>
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=destrex271&theme=gotham" alt="destrex271" width = "50%"/>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=destrex271&theme=gotham&hide_border=true&include_all_commits=true&hide_title=true" />
  <img src = "https://activity-graph.herokuapp.com/graph?username=destrex271&theme=react-dark&hide_border=true&area=true" width = 800>
 
