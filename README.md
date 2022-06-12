@@ -20,7 +20,7 @@ I am an aspiring Software Developer and An Open Source Enthusiast.
 - ⚡️ Well, I'm also a Music Producer 😎
 
 <!-- Tech Stacks -->
-<h3>Here is what I Use 👀</h3>
+<h3>What I Use 👀</h3>
 <p float="left">
     <img src="./Icons/python.png" width="48" />
     <img src="./Icons/java.png" width="48" />
@@ -41,7 +41,7 @@ I am an aspiring Software Developer and An Open Source Enthusiast.
 
 <!-- Contacts -->
 
-<h3 float="left">Contact me here 📝</h3>
+<h3 float="left">Lets Connect 📝</h3>
 <p float="left">
     <a href="https://www.linkedin.com/in/akshat-jaimini-05a610203/" >
         <img src="./Icons/linkedin1.png" width="30" />
