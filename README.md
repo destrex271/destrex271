@@ -68,10 +68,8 @@ I am an aspiring Software Developer and An Open Source Enthusiast.
 <br>
 
 <h3>Lets Get to some Stats😁</h3>
-<p width="100%">
 <a href="https://github.com/destrex271"><img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=destrex271&show_icons=true&theme=gotham" width="50%" ></a>
 <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=destrex271&theme=gotham&hide_border=true&include_all_commits=true&hide_title=true" />
-</p>
  <img src = "https://activity-graph.herokuapp.com/graph?username=destrex271&theme=react-dark&hide_border=true&area=true" width = 800>
  
 
