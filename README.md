@@ -66,6 +66,7 @@ I am an aspiring Software Developer and An Open Source Enthusiast.
 <h3>Checkout My BlogPosts too:</h3>
 
 - <a href="https://medium.com/developer-student-clubs-tiet/getting-started-with-flutter-b1ff5c94c04f">Getting started with Flutter</a>
+- <a href="https://medium.com/developer-student-clubs-tiet/test-and-improve-your-rest-apis-with-pytest-3f873dbb6866">Testing REST API's with pytest</a>
 
 <!-- Stats -->
 <br>
