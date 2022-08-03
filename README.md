@@ -12,7 +12,7 @@ I am an aspiring Software Developer and An Open Source Enthusiast.
 
 <h3>Lets talk Business now 😎 </h3>
 
-- 👨🏽‍💻 I’m currently trying to find some cool opensource projects to contribute to.
+- 👨🏽‍💻 I’m currently learning the Rust programming language.
 - 🌱 I'm Currently working on building an Interpreter by following the book Crafting Interpreters.
 - 🤝 I'm looking forward to implement some projects from the Project Based Learning repository.<!-- - 👀 I'm currently looking for . -->
 - ⚡️ Well, I'm also a Music Producer 😎
