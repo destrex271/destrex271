@@ -6,7 +6,7 @@
 <br>
 <!-- Intro goes here -->
 
-Hi everyone, I am Akshat Jaimini, a freshman at <a href="https://www.thapar.edu/">Thapar Institute Of Engineering And Technology, Patiala</a>.
+Hi everyone, I am Akshat Jaimini, a sophomore at <a href="https://www.thapar.edu/">Thapar Institute Of Engineering And Technology, Patiala</a>.
 <br>
 I am an aspiring Software Developer and An Open Source Enthusiast.
 
