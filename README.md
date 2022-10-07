@@ -80,6 +80,8 @@ I am an aspiring Software Developer and An Open Source Enthusiast.
 <img src = "https://activity-graph.herokuapp.com/graph?username=destrex271&theme=react-dark&hide_border=true&area=true" width = 800>
 </p>
  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
