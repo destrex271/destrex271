@@ -12,9 +12,8 @@ I am an aspiring Software Developer and An Open Source Enthusiast.
 
 <h3>Lets talk Business now 😎 </h3>
 
-- 👨🏽‍💻 I’m currently learning the Rust programming language.
-- 🌱 I'm Currently learning about how to contribute to the Linux Kernel.
-- 🤝 I'm looking forward to contribute to the linux kernel.<!-- - 👀 I'm currently looking for . -->
+- 👨🏽‍💻 I’m currently learning about Computer Graphcis.
+- 🤝 I'm looking forward to completing my first 2d platformer game using sdl2 api bindings in rust.<!-- - 👀 I'm currently looking for . -->
 - ⚡️ Well, I'm also a Music Producer 😎
 
 <!-- Tech Stacks -->
