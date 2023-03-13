@@ -67,6 +67,7 @@ I am an aspiring Software Developer and An Open Source Enthusiast.
 - <a href="https://medium.com/developer-student-clubs-tiet/getting-started-with-flutter-b1ff5c94c04f">Getting started with Flutter</a>
 - <a href="https://medium.com/developer-student-clubs-tiet/test-and-improve-your-rest-apis-with-pytest-3f873dbb6866">Testing REST API's with pytest</a>
 - <a href="https://medium.com/developer-student-clubs-tiet/rust-a-blazingly-fast-experience-53b6505530a4">Rust - A Blazingly Fast Experience</a>
+- <a href="https://medium.com/towardsdev/rust-tool-api-to-generate-and-serve-audio-files-to-clients-part-i-f5297e064564">Building a Tool/Web-API in Rust to generate and serve audio files— Part I</a>
 
 <!-- Stats -->
 <br>
