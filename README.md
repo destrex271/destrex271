@@ -1,6 +1,6 @@
-<h1 align="center"><img align="center" src="https://media2.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=790b7611ee54790334528224727b2844593b8da4ada50076&rid=giphy.gif&ct=s" width=10% /><br>Hello There🤘!</h1>
+<h1 align="center"><img align="center" src="https://media2.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=790b7611ee54790334528224727b2844593b8da4ada50076&rid=giphy.gif&ct=s" width="10%" /><br>Hello There🤘!</h1>
 <!-- <hr style="color: gray; margin: auto; width: 90%;" > -->
-<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" align="center" height=50% width=100% />
+<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" align="center" height="50%" width="100%" />
 <img align="left" src="https://komarev.com/ghpvc/?username=destrex271&color=green" />
 <br>
 <br>
