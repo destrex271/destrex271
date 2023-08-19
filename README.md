@@ -69,7 +69,11 @@ I am an aspiring Software Developer and An Open Source Enthusiast. You can follo
 - <a href="https://medium.com/developer-student-clubs-tiet/rust-a-blazingly-fast-experience-53b6505530a4">Rust - A Blazingly Fast Experience</a>
 - <a href="https://medium.com/towardsdev/rust-tool-api-to-generate-and-serve-audio-files-to-clients-part-i-f5297e064564">Building a Tool/Web-API in Rust to generate and serve audio files— Part I</a>
 - <a href="https://medium.com/dev-genius/beginning-google-summer-of-code-2023-postgresql-a4cc6f350c23">Beginning Google Summer Of Code 2023 @ PostgreSQL</a>
-
+- <a href="https://blog.devgenius.io/week-1-2-at-postgresql-gsoc-2023-914c689984f3">Week 1–2 at PostgreSQL@GSOC 2023</a>
+- <a href="https://medium.com/dev-genius/week-3-4-postgresql-gsoc23-13b4bbb4c54a">Week 3–4, PostgreSQL@GSoC’23</a>
+- <a href="https://medium.com/dev-genius/week-5-6-postgresql-google-summer-of-code23-d74ec1dff8f8">Week 5–6 @ PostgreSQL, Google Summer Of Code’23</a>
+- <a href="https://medium.com/towardsdev/week-7-8-postgresql-gsoc23-ecf87803e9fd">Week 7–8 , PostgreSQL@GSoC’23</a>
+- <a href="https://medium.com/@destrex271/week-9-10-postgresql-gsoc23-9e3fc29890e9">Week 9–10, PostgreSQL@GSoC’23</a>
 <!-- Stats -->
 <br>
 
