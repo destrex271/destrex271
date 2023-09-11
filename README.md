@@ -12,7 +12,7 @@ I am an aspiring Software Developer and An Open Source Enthusiast. You can follo
 
 <h3>Lets talk Business now 😎 </h3>
 
-- 👨🏽‍💻 I’m currently learning Golang and Machine learing.
+<!-- - 👨🏽‍💻 I’m currently . -->
 - 🤝 I'm looking forward to completing the PGWeb Testing Harness Suit for PostgreSQL(Contribution are welcome!👀).<!-- - 👀 I'm currently looking for . -->
 - ⚡️ Well, I'm also a Music Producer 😎
 
