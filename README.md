@@ -19,21 +19,15 @@ I am an aspiring Software Developer and An Open Source Enthusiast. You can follo
 <!-- Tech Stacks -->
 <h3>What I Use 👀</h3>
 <p float="left">
+    <img src="./Icons/cpp.png" width="48" />
     <img src="./Icons/python.png" width="48" />
     <img src="./Icons/java.png" width="48" />
-    <img src="./Icons/c.png" width="48" />
-    <img src="./Icons/javascript.png" width="48" />
-    <img src="./Icons/html.png" width="48" />
-    <img src="./Icons/css.png" width="48" />
+    <img src="./Icons/linux.png" width="48" />
+    <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="48" />
+    <img src="./Icons/rust.png" width="48" />
     <img src="./Icons/node.png" width="48" />
     <img src="./Icons/django.png" width="48" />
-    <img src="./Icons/cpp.png" width="48" />
     <img src="./Icons/react.png" width="48" />
-    <img src="./Icons/next.png" width="48" />
-    <img src="./Icons/rust.png" width="48" />
-    <img src="./Icons/linux.png" width="48" />
-    <img src="./Icons/flutter.png" width="48" />
-    <img src="./Icons/solidity.png" width="48" />
 </p>
 
 <!-- Contacts -->
