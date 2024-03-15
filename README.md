@@ -6,14 +6,14 @@
 <br>
 <!-- Intro goes here -->
 
-Hi everyone, I am Akshat Jaimini, a sophomore at <a href="https://www.thapar.edu/">Thapar Institute Of Engineering And Technology, Patiala</a>.
+Hi everyone, I am Akshat Jaimini, a junior at <a href="https://www.thapar.edu/">Thapar Institute Of Engineering And Technology, Patiala</a>.
 <br>
 I am an aspiring Software Developer and An Open Source Enthusiast. You can follow up my latest work <a href="https://destrex271.github.io/PGweb-Testing-Harness-Report/">here</a>
 
 <h3>Lets talk Business now 😎 </h3>
 
 <!-- - 👨🏽‍💻 I’m currently . -->
-- 🤝 I'm looking forward to completing the PGWeb Testing Harness Suit for PostgreSQL(Contribution are welcome!👀).<!-- - 👀 I'm currently looking for . -->
+- 🤝 I'm looking forward to completing my custom neural network implementation in Rust.<!-- - 👀 I'm currently looking for . -->
 - ⚡️ Well, I'm also a Music Producer 😎
 
 <!-- Tech Stacks -->
@@ -68,6 +68,7 @@ I am an aspiring Software Developer and An Open Source Enthusiast. You can follo
 - <a href="https://medium.com/dev-genius/week-5-6-postgresql-google-summer-of-code23-d74ec1dff8f8">Week 5–6 @ PostgreSQL, Google Summer Of Code’23</a>
 - <a href="https://medium.com/towardsdev/week-7-8-postgresql-gsoc23-ecf87803e9fd">Week 7–8 , PostgreSQL@GSoC’23</a>
 - <a href="https://medium.com/@destrex271/week-9-10-postgresql-gsoc23-9e3fc29890e9">Week 9–10, PostgreSQL@GSoC’23</a>
+- <a href="https://medium.com/@destrex271/does-your-database-know-better-a-short-note-on-database-latches-and-why-they-exist-e19cdb613e24">Does your database know better? A short note on Database Latches and why they exist</a>
 <!-- Stats -->
 <br>
 
