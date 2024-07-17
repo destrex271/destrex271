@@ -77,7 +77,7 @@ I am an aspiring Software Developer and An Open Source Enthusiast. You can follo
 <br>
 
 <h3>Lets Get to some Stats😁</h3>
-<p align="center">
+<p align="left">
 <a href="https://github.com/destrex271" align="center"><img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=destrex271&show_icons=true&theme=gotham" width="50%" ></a>
 </p>
  
