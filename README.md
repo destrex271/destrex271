@@ -69,6 +69,10 @@ I am an aspiring Software Developer and An Open Source Enthusiast. You can follo
 - <a href="https://medium.com/towardsdev/week-7-8-postgresql-gsoc23-ecf87803e9fd">Week 7–8 , PostgreSQL@GSoC’23</a>
 - <a href="https://medium.com/@destrex271/week-9-10-postgresql-gsoc23-9e3fc29890e9">Week 9–10, PostgreSQL@GSoC’23</a>
 - <a href="https://medium.com/@destrex271/does-your-database-know-better-a-short-note-on-database-latches-and-why-they-exist-e19cdb613e24">Does your database know better? A short note on Database Latches and why they exist</a>
+
+- <a href="https://medium.com/@destrex271/code-porter-a-gemini-based-vs-code-extension-for-easier-portability-8fb80e8945a5">Code Porter Extension for VSCode</a>
+- <a href="https://medium.com/@destrex271/support-for-remote-sinks-in-pgwatch3-gsoc24-4d3b4910063f">Support For Remote Sinks in pgwatch3</a>
+
 <!-- Stats -->
 <br>
 
