@@ -13,7 +13,7 @@ I am an aspiring Software Developer and An Open Source Enthusiast. You can follo
 <h3>Lets talk Business now 😎 </h3>
 
 <!-- - 👨🏽‍💻 I’m currently . -->
-- 🤝 I'm looking forward to completing the RPC snk implementations for pgwatch3<!-- - 👀 I'm currently looking for . -->
+- 🤝 I'm looking forward to completing the RPC sink implementations for pgwatch3<!-- - 👀 I'm currently looking for . -->
 - ⚡️ Well, I'm also a Music Producer 😎
 
 <!-- Tech Stacks -->
