@@ -25,9 +25,6 @@ I am an aspiring Software Developer and An Open Source Enthusiast. You can follo
     <img src="./Icons/linux.png" width="48" />
     <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="48" />
     <img src="./Icons/rust.png" width="48" />
-    <img src="./Icons/node.png" width="48" />
-    <img src="./Icons/django.png" width="48" />
-    <img src="./Icons/react.png" width="48" />
 </p>
 
 <!-- Contacts -->
