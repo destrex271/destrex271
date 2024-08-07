@@ -6,7 +6,7 @@
 <br>
 <!-- Intro goes here -->
 
-Hi everyone, I am Akshat Jaimini, a junior at <a href="https://www.thapar.edu/">Thapar Institute Of Engineering And Technology, Patiala</a>.
+Hi everyone, I am Akshat Jaimini, a final year undergrad at <a href="https://www.thapar.edu/">Thapar Institute Of Engineering And Technology, Patiala</a>.
 <br>
 I am an aspiring Software Developer and An Open Source Enthusiast. You can follow up my latest work <a href="https://destrex271.github.io/PGweb-Testing-Harness-Report/">here</a>
 
