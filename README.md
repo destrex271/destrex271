@@ -8,12 +8,12 @@
 
 Hi everyone, I am Akshat Jaimini, a final year undergrad at <a href="https://www.thapar.edu/">Thapar Institute Of Engineering And Technology, Patiala</a>.
 <br>
-I am an aspiring Software Developer and An Open Source Enthusiast. You can follow up my latest work <a href="https://destrex271.github.io/PGweb-Testing-Harness-Report/">here</a>
+I am an aspiring Software Developer and OSS contributor. You can follow up my latest work <a href="https://destrex271.github.io/PGweb-Testing-Harness-Report/">here</a>
 
 <h3>Lets talk Business now 😎 </h3>
 
 <!-- - 👨🏽‍💻 I’m currently . -->
-- 🤝 I'm looking forward to completing the RPC sink implementations for pgwatch3<!-- - 👀 I'm currently looking for . -->
+- 🤝 I'm looking forward to contributing more to the postgres ecosystem<!-- - 👀 I'm currently looking for . -->
 - ⚡️ Well, I'm also a Music Producer 😎
 
 <!-- Tech Stacks -->
