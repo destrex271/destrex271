@@ -13,7 +13,7 @@ I am an aspiring Software Developer and OSS contributor. You can follow up my la
 <h3>Lets talk Business now 😎 </h3>
 
 <!-- - 👨🏽‍💻 I’m currently . -->
-- 🤝 Currently developing LokiKV, a key value store in which you can easily opt between various storage modes(either btree or hashmap)
+- 🤝 Currently developing LokiKV, a key value store in which you can easily opt between various storage modes(either btree or hashmap) and persist it on disk(wip)
 - ⚡️ Well, I'm also a Music Producer 😎
 
 <!-- Tech Stacks -->
